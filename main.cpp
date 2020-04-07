@@ -1,3 +1,4 @@
+    /* same idea as the one provided by you: https://github.com/thecodingwizard/competitive-programming/blob/master/IZhO/IZhO%2018-treearray.cpp*/
     #include <bits/stdc++.h>
     using namespace std;
     const int N=2e5+5;
